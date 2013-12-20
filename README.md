@@ -9,6 +9,10 @@ Demo: http://madebymany.github.io/sir-trevor-js/
 Copy to your plugins directory and install.
 Add your Twitter api credentials for Twitter block to work.
 
+# Templates
+
+To override a template copy to your theme in the directory "sir-trevor-wordpress".
+
 # Requirements
 
 All requirements are bundled.
